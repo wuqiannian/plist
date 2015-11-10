@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://download.wqn.ztgame.com.cn/1.jpg</string>
+					<string>http://download.wqn.ztgame.com.cn/1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.wqn.ztgame.com.cn/2.jpg</string>
+					<string>http://download.wqn.ztgame.com.cn/2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
